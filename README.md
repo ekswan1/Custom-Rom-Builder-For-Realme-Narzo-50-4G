@@ -1,6 +1,7 @@
-# Custom Rom Builder For Realme Narzo 30 4G 
+# Nippon/PHH GSI TWRP Flashable zip Builder For Realme Narzo 30 4G 
 
-<br>⚬ This tool can create full flashble zip with any gsi</br>
+⚬ Based on Stock android 11 vendor and boot 
+<br>⚬ This tool can create full flashable zip with any gsi</br>
 ⚬ This tool support arm64 
 
 # If you want to build arm64 custom rom, 
