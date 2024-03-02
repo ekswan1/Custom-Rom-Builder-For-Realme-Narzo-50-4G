@@ -1,4 +1,4 @@
-# Nippon/PHH GSI TWRP Flashable zip Builder For Realme Narzo 30 4G 
+# Nippon/PHH GSI TWRP Flashable zip Builder For Realme spaced 
 
 ⚬ Based on Stock android 11 vendor and boot 
 <br>⚬ This tool can create full flashable zip with any gsi</br>
@@ -32,8 +32,8 @@ https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/lineage-19.1-202
 <br>⚬ then add the arch as 64</br>
 
 <br>3. Add Rom Name<br>⚬
-<br>⚬ then add the gsi name it should be [rom_name]_[version]_[Realme_Narzo_30_4G_MTK]_[arm64]_[gapps_or_vanila]<br>
-like this LineageOS_19.1_Realme_Narzo_30_4G_MTK_ARM64_Gapps
+<br>⚬ then add the gsi name it should be [rom_name]_[version]_[spaced]_[arm64]_[gapps_or_vanila]<br>
+like this LineageOS_19.1_spaced_MTK_ARM64_Gapps
 
 
 # ⚬Telegram
